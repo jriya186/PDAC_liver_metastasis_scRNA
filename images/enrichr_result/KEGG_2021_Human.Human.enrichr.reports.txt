@@ -1,0 +1,31 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Viral protein interaction with cytokine and cytokine receptor	2/100	2.450872e-04	7.352615e-03	0	0	1.353537e+02	1.125317e+03	CCL5;CXCR4
+KEGG_2021_Human	Influenza A	2/172	7.228955e-04	8.995257e-03	0	0	7.774510e+01	5.622717e+02	DNAJB1;CCL5
+KEGG_2021_Human	Chemokine signaling pathway	2/192	8.995257e-04	8.995257e-03	0	0	6.949123e+01	4.873867e+02	CCL5;CXCR4
+KEGG_2021_Human	Human cytomegalovirus infection	2/225	1.232167e-03	9.241253e-03	0	0	5.910912e+01	3.959708e+02	CCL5;CXCR4
+KEGG_2021_Human	Cytokine-cytokine receptor interaction	2/295	2.105473e-03	1.263284e-02	0	0	4.482821e+01	2.762859e+02	CCL5;CXCR4
+KEGG_2021_Human	Primary immunodeficiency	1/38	9.464812e-03	4.732406e-02	0	0	1.348514e+02	6.284308e+02	PTPRC
+KEGG_2021_Human	Intestinal immune network for IgA production	1/48	1.194361e-02	5.118691e-02	0	0	1.061064e+02	4.697922e+02	CXCR4
+KEGG_2021_Human	Cytosolic DNA-sensing pathway	1/63	1.565251e-02	5.283666e-02	0	0	8.037500e+01	3.341288e+02	CCL5
+KEGG_2021_Human	Epithelial cell signaling in Helicobacter pylori infection	1/70	1.737951e-02	5.283666e-02	0	0	7.219565e+01	2.925702e+02	CCL5
+KEGG_2021_Human	Rheumatoid arthritis	1/93	2.303690e-02	5.283666e-02	0	0	5.408424e+01	2.039332e+02	CCL5
+KEGG_2021_Human	Fc gamma R-mediated phagocytosis	1/97	2.401813e-02	5.283666e-02	0	0	5.182031e+01	1.932352e+02	PTPRC
+KEGG_2021_Human	Chagas disease	1/102	2.524355e-02	5.283666e-02	0	0	4.924257e+01	1.811725e+02	CCL5
+KEGG_2021_Human	T cell receptor signaling pathway	1/104	2.573338e-02	5.283666e-02	0	0	4.828155e+01	1.767089e+02	PTPRC
+KEGG_2021_Human	Toll-like receptor signaling pathway	1/104	2.573338e-02	5.283666e-02	0	0	4.828155e+01	1.767089e+02	CCL5
+KEGG_2021_Human	TNF signaling pathway	1/112	2.769071e-02	5.283666e-02	0	0	4.478378e+01	1.606241e+02	CCL5
+KEGG_2021_Human	Leukocyte transendothelial migration	1/114	2.817955e-02	5.283666e-02	0	0	4.398673e+01	1.569956e+02	CXCR4
+KEGG_2021_Human	Cell adhesion molecules	1/148	3.645983e-02	6.434087e-02	0	0	3.375510e+01	1.117815e+02	PTPRC
+KEGG_2021_Human	Protein processing in endoplasmic reticulum	1/171	4.202911e-02	6.702535e-02	0	0	2.915441e+01	9.240178e+01	DNAJB1
+KEGG_2021_Human	NOD-like receptor signaling pathway	1/181	4.444249e-02	6.702535e-02	0	0	2.752083e+01	8.568774e+01	CCL5
+KEGG_2021_Human	Axon guidance	1/182	4.468356e-02	6.702535e-02	0	0	2.736740e+01	8.506198e+01	CXCR4
+KEGG_2021_Human	Human immunodeficiency virus 1 infection	1/212	5.189309e-02	6.826445e-02	0	0	2.344076e+01	6.935112e+01	CXCR4
+KEGG_2021_Human	Lipid and atherosclerosis	1/215	5.261164e-02	6.826445e-02	0	0	2.310864e+01	6.805075e+01	CCL5
+KEGG_2021_Human	Regulation of actin cytoskeleton	1/218	5.332975e-02	6.826445e-02	0	0	2.278571e+01	6.679087e+01	CXCR4
+KEGG_2021_Human	Calcium signaling pathway	1/240	5.858264e-02	6.826445e-02	0	0	2.066527e+01	5.863392e+01	CXCR4
+KEGG_2021_Human	Shigellosis	1/246	6.001119e-02	6.826445e-02	0	0	2.015306e+01	5.669508e+01	CCL5
+KEGG_2021_Human	Salmonella infection	1/249	6.072482e-02	6.826445e-02	0	0	1.990625e+01	5.576542e+01	PTPRC
+KEGG_2021_Human	Endocytosis	1/252	6.143801e-02	6.826445e-02	0	0	1.966534e+01	5.486092e+01	CXCR4
+KEGG_2021_Human	Prion disease	1/273	6.641823e-02	7.116239e-02	0	0	1.812776e+01	4.915856e+01	CCL5
+KEGG_2021_Human	Herpes simplex virus 1 infection	1/498	1.184633e-01	1.225482e-01	0	0	9.807847e+00	2.092163e+01	CCL5
+KEGG_2021_Human	Pathways in cancer	1/531	1.258972e-01	1.258972e-01	0	0	9.181604e+00	1.902694e+01	CXCR4
